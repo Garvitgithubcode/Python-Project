@@ -1,4 +1,4 @@
-# Voice Assistant
+# Voice Assistant (Using Python)
 # It takes command and react
 # Ex:- open youtube, open facebook, open twitter, tell me the time, send email, Anything search in wikipedia, etc.
 import pyttsx3
