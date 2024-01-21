@@ -1,7 +1,8 @@
 # Drink water remainder 
+# For all type of operating system Ex:- Windows, MacOS, Linux 
 import time
 import platform
-from plyer import notification  # Install plyer using: pip install plyer
+from plyer import notification 
 
 def remind_to_drink_water():
     while True:
@@ -27,7 +28,7 @@ def remind_to_drink_water():
             notification.notify(
                 title="Drink Water",
                 message="Remember to drink water!",
-                app_icon=None,  # e.g., '/path/to/icon.png'
+                app_icon=None,  # Path
                 timeout=10
             )
 
