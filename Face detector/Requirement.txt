@@ -1,0 +1,4 @@
+Python
+ *OpenCV
+ *Pre-trained face detector file ('haarcascade_frontalface_default.xml')
+ *Images And Videos(To Detect Faces)
