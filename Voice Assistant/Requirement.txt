@@ -1,8 +1,9 @@
-Python
- *pyttsx3
- *speech_recognition
- *datetime
- *wikipedia
- *webbrowser
- *OS
- *smtplib
+Python (Programming Language)
+  #Modules
+    *pyttsx3
+    *speech_recognition
+    *datetime
+    *wikipedia
+    *webbrowser
+    *OS
+    *smtplib
