@@ -1,4 +1,5 @@
-Python
-  *Pygame
-  *Random Module
-  *Os Module
+Python (Programming Language)
+  #Modules
+    *Pygame
+    *Random Module
+    *Os Module
