@@ -1,4 +1,5 @@
-# Flappy Bird Game
+# Flappy Bird Game (Using Python Library "Pygame")
+
 import random  # For generating random numbers
 import sys  # To exit the program
 import pygame  # pip install pygame
