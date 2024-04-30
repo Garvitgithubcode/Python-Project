@@ -1,0 +1,1 @@
+Developed and implemented a highly efficient face detection program capable of accurately detecting faces in both images and videos 
