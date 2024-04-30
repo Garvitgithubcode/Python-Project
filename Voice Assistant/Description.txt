@@ -1,0 +1,2 @@
+Developed a program with command and reaction capabilities, allowing users to perform various tasks such as opening YouTube, WhatsApp, Twitter,
+and Facebook, retrieving the time, sending emails, and searching information on Wikipedia.
